@@ -1,0 +1,2 @@
+# SampleSegmentControl
+封装的简单的SegmentControl控件
